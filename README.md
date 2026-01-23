@@ -1,4 +1,4 @@
-# Alzheimer’s Disease MRI Classification using Deep Learning 🧠
+# 🧠 Alzheimer’s Disease MRI Classification using Deep Learning 
 
 ## Project Overview
 
@@ -80,7 +80,8 @@ Due to the severe class imbalance in the dataset, this project does not rely onl
 
 - Training accuracy: ~96%  
 - Validation accuracy: ~98%  
-- Best model restored from epoch 7  
+- Best model restored from epoch 7
+- In addition to high overall accuracy, the use of oversampling and data augmentation significantly improved the recall for each class, especially for the **minority classes**, leading to better detection of Mild Demented and Demented cases.
 
 ---
 
