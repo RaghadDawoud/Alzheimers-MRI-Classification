@@ -83,4 +83,4 @@ Due to the severe class imbalance in the dataset, this project does not rely onl
 
 ## Reference
 
-[Link to the paper] https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1563016/full
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1563016/full
