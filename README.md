@@ -22,9 +22,6 @@ The dataset used is the **OASIS MRI Dataset**: https://www.kaggle.com/datasets/n
 - Around 80,000 brain MRI images  
 - MRI scans from 461 patients  
 - 2D slices are used as input to the neural network  
-
-### Preprocessing
-
 - Each MRI volume was sliced along the z-axis into 256 slices  
 - Only slices from 100 to 160 were selected (most informative brain regions)  
 - This results in 61 slices per patient and around 80,000 total images  
