@@ -1,4 +1,4 @@
-# 🧠 Alzheimer’s Disease MRI Classification using Deep Learning 
+# Alzheimer’s Disease MRI Classification using Deep Learning 
 
 ## Project Overview
 
@@ -15,8 +15,7 @@ The model classifies MRI scans into four classes:
 
 ## Dataset
 
-The dataset used is the **OASIS MRI Dataset**:  
-https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data
+The dataset used is the **OASIS MRI Dataset**: https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data
 
 ### Dataset Description
 
@@ -87,7 +86,4 @@ Due to the severe class imbalance in the dataset, this project does not rely onl
 
 ## Reference
 
-Dardouri, et al., 2025. *Alzheimer’s Disease Classification Using Deep Learning with Oversampling and Data Augmentation*.  
-
-Available at:  
-PUT THE PAPER LINK HERE
+[Link to the paper] https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1563016/full
